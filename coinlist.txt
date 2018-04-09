@@ -1,0 +1,10 @@
+AUR: -o stratum+tcp://eu.multipool.us:3362 -u Adamusen.1 -p 1234
+DGB:: -o stratum+tcp://pool-eu.hash.so:3373 -u Adamusen.1 -p x -diffapi https://dgb.hash.so/index.php?page=api&action=getpoolstatus&api_key=b97f43874c3ecbc96a97f7d87c351a43832e7fe17817f4f918c3cf8b82f67eae
+DOGE:: -o stratum+tcp://eu.multipool.us:3352 -u Adamusen.1 -p 1234 -diffapi https://doge.hash.so/index.php?page=api&action=getpoolstatus&api_key=b97f43874c3ecbc96a97f7d87c351a43832e7fe17817f4f918c3cf8b82f67eae
+LTC:: -o stratum+tcp://lite.wemineltc.com:3334 -u Adamusen.1 -p 1234 -diffapi https://ltc.hash.so/index.php?page=api&action=getpoolstatus&api_key=b97f43874c3ecbc96a97f7d87c351a43832e7fe17817f4f918c3cf8b82f67eae
+NOBL:: -o stratum+tcp://pool-eu.hash.so:3369 -u Adamusen.1 -p x -diffapi https://nobl.hash.so/index.php?page=api&action=getpoolstatus&api_key=b97f43874c3ecbc96a97f7d87c351a43832e7fe17817f4f918c3cf8b82f67eae
+RDD:: -o stratum+tcp://pool-eu.hash.so:3371 -u Adamusen.1 -p x -diffapi https://rdd.hash.so/index.php?page=api&action=getpoolstatus&api_key=b97f43874c3ecbc96a97f7d87c351a43832e7fe17817f4f918c3cf8b82f67eae
+SPA: -o stratum+tcp://amsterdam.eu.stratum.dedicatedpool.com:3372 -u Adamusen.1 -p 1234 -diffapi http://spa.pool.mn/index.php?page=api&action=getpoolstatus&api_key=211afd53fcc9795647a3650acdad2509002ea8a2be800f79f7074e9d5479a35a
+EMC2:: -o stratum+tcp://emc2.suprnova.cc:3366 -u Adamusen.1 -p 1234 -diffapi https://emc2.suprnova.cc/index.php?page=api&action=getpoolstatus&api_key=5aa3c1166a42ac72469f50a0a2972cd682e4c58216434ff1e7127f34355629d7
+VTC: -o stratum+tcp://vtc.pool.mn:3349 -u Adamusen.1 -p 1234 -diffapi http://vtc.pool.mn/index.php?page=api&action=getpoolstatus&api_key=c4d83551f817be165a7543e4df302dd6f4270614d9f1867b21c3be5d653b779e
+POT:: -o stratum+tcp://pool-eu.hash.so:3389 -u Adamusen.1 -p x -diffapi https://pot.hash.so/index.php?page=api&action=getpoolstatus&api_key=b97f43874c3ecbc96a97f7d87c351a43832e7fe17817f4f918c3cf8b82f67eae
